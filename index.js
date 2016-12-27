@@ -54,7 +54,9 @@ function generateMock(model, count){
 }
 
 
-
+/*
+    Wire up code
+*/
 const mockDataModel = {
     creator: 'Dennis',
     id: guid,
@@ -81,12 +83,12 @@ const mockDataModel = {
 
 // const stringData = JSON.parse('{"nameFirst":"name"}');
 // stringData = Array.slice.apply(stringData).map(e => mock[e]);
-const fuckIt = [name, name, name, 2, 'dennis'];
+const fuckIt = [name, name, {cool:bool}, 2, 'dennis'];
 console.log(typeof fuckIt);
 const mockObjectCount = 20;
 
 console.log('starting........................', this);
-const result = generateMock(fuckIt, mockObjectCount);
+const result = generateMock(mockDataModel, mockObjectCount);
 console.log(result);
 
 //module.exports = generateMock;
