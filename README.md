@@ -1,8 +1,8 @@
-#Random Data Generator
+# Random Data Generator
 
 POST a JSON object to this mmicro service and get back an identical model with randomly generated values
 
-###Message Arguments
+### Message Arguments
 model: and valid JSON object using a random generator reffernce values.
 count: number of models to return
 
@@ -20,7 +20,7 @@ The model values can also be defaulted to a bool, int, or string. Nested modelss
 }
 ```
 
-###Response
+### Response
 Array of objects
 
 *Example response*
@@ -39,7 +39,7 @@ Array of objects
 ]
 ```
 
-##Random Generator Methods
+## Random Generator Methods
 _bool
 _char
 _charLower
