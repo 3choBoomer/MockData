@@ -8,7 +8,8 @@ count: number of models to return
 
 The model values can also be defaulted to a bool, int, or string. Nested modelss are supported.
 *Example message*
-`{
+```javascript
+{
     "model": {
         "creator": "_name",
         "control_code": "_charLower",
@@ -16,13 +17,15 @@ The model values can also be defaulted to a bool, int, or string. Nested modelss
         
     },
     "count": 3
-}`
+}
+```
 
 ###Response
 Array of objects
 
 *Example response*
-`[
+```javascript
+[
   {
     "creator": "Poole",
     "control_code": "o",
@@ -33,7 +36,8 @@ Array of objects
     "control_code": "f",
     "zip": 50641
   }
-]`
+]
+```
 
 ##Random Generator Methods
 _bool
