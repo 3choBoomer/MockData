@@ -39,6 +39,38 @@ Array of objects
 ]
 ```
 
+## Specifying number of items to generate in an array
+_count in an object in an array will create that many objects in the array
+If a negative number is supplied, the count will be random with a min of 0 and a max of Math.abs(_count).
+```javascript
+{
+    "model": {
+      "arr": [{"_count": -3, "foo":"_name"}]    
+    },
+    "count": 2
+}
+```
+*Example response*
+```javascript
+{
+   "status":200,
+   "data":[
+      {
+         "arr":[
+
+         ]
+      },
+      {
+         "arr":[
+            {
+               "foo":"Bowen"
+            }
+         ]
+      }
+   ]
+}
+```
+
 ## Random Generator Methods
 _bool
 _char
