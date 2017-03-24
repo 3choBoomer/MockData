@@ -1,0 +1,251 @@
+{
+        "_index": "universitycolorado_20160304",
+        "_type": "person",
+        "_id": "31859164",
+        "_score": 13.969883,
+        "_source": {
+          "dns": "_bool",
+          "hasEmail": "_bool",
+          "locs": [
+            {
+              "l": "_int",
+              "p": "_int"
+            }
+          ],
+          "pcp": "_int",
+          "lists": [
+            {
+              "id": "316_111",
+              "segment": null
+            },
+            {
+              "id": "599_111",
+              "segment": null
+            },
+            {
+              "id": "600_111",
+              "segment": null
+            },
+            {
+              "id": "601_111",
+              "segment": null
+            }
+          ],
+          "recipes": [
+            {
+              "id": 1000,
+              "score": 5
+            },
+            {
+              "id": 2000,
+              "score": 5
+            },
+            {
+              "id": 3000,
+              "score": 1
+            },
+            {
+              "id": 5000,
+              "score": 1
+            },
+            {
+              "id": 12000,
+              "score": 3
+            },
+            {
+              "id": 14000,
+              "score": 2
+            },
+            {
+              "id": 18000,
+              "score": 5
+            },
+            {
+              "id": 20000,
+              "score": 2
+            },
+            {
+              "id": 22000,
+              "score": 1
+            },
+            {
+              "id": 24000,
+              "score": 3
+            },
+            {
+              "id": 28000,
+              "score": 2
+            },
+            {
+              "id": 33000,
+              "score": 1
+            },
+            {
+              "id": 44000,
+              "score": 5
+            },
+            {
+              "id": 47000,
+              "score": 1
+            },
+            {
+              "id": 49000,
+              "score": 2
+            },
+            {
+              "id": 51000,
+              "score": 1
+            },
+            {
+              "id": 55000,
+              "score": 1
+            },
+            {
+              "id": 57000,
+              "score": 5
+            },
+            {
+              "id": 60000,
+              "score": 1
+            },
+            {
+              "id": 63000,
+              "score": 1
+            },
+            {
+              "id": 64000,
+              "score": 2
+            },
+            {
+              "id": 65000,
+              "score": 1
+            },
+            {
+              "id": 66000,
+              "score": 2
+            },
+            {
+              "id": 67000,
+              "score": 1
+            },
+            {
+              "id": 68000,
+              "score": 3
+            },
+            {
+              "id": 69000,
+              "score": 2
+            },
+            {
+              "id": 70000,
+              "score": 2
+            },
+            {
+              "id": 73000,
+              "score": 3
+            },
+            {
+              "id": 74000,
+              "score": 3
+            },
+            {
+              "id": 75000,
+              "score": 2
+            },
+            {
+              "id": 76000,
+              "score": 2
+            },
+            {
+              "id": 79000,
+              "score": 5
+            },
+            {
+              "id": 80000,
+              "score": 1
+            },
+            {
+              "id": 84000,
+              "score": 5
+            },
+            {
+              "id": 85000,
+              "score": 5
+            },
+            {
+              "id": 86000,
+              "score": 3
+            },
+            {
+              "id": 87000,
+              "score": 1
+            },
+            {
+              "id": 89000,
+              "score": 5
+            },
+            {
+              "id": 90000,
+              "score": 2
+            },
+            {
+              "id": 999000,
+              "score": 0
+            }
+          ],
+          "hasChildren": false,
+          "hasAddress": true,
+          "location": {
+            "lat": 44.869564,
+            "lon": -108.52167
+          },
+          "zip": "82431",
+          "hasPrimaryPhysician": "_bool",
+          "beehive": 14,
+          "wealthRate": 9,
+          "dateOfBirth": "1937-12-12T00:00:00Z",
+          "zip4": "9632",
+          "healthSystemEmployee": "_bool",
+          "householdPreference": 1,
+          "payerType": "MI",
+          "id": "31859164",
+          "holdout": false,
+          "education": "3",
+          "language": 4121,
+          "personTypeAndZip": "F82431",
+          "childrenAgeGroup": [],
+          "ageGroup": "S",
+          "donateToCharity": false,
+          "income": "E",
+          "personType": "F",
+          "race": "W",
+          "lastEncounterAt": null,
+          "maritalStatus": "U",
+          "homeOwnership": "H",
+          "religion": "P",
+          "occupation": 49,
+          "sup": {
+            "hh_comp": "C",
+            "city": "LOVELL",
+            "middleName": "A",
+            "email": "CATHI.TRICE@email.com",
+            "state": "WY",
+            "len_of_residence": "37",
+            "street1": "6382 Stony Pond Jetty",
+            "purl": "CATHITRICE.31859164",
+            "age": 77,
+            "street2": null,
+            "lastName": "TRICE",
+            "firstName": "CATHI",
+            "dpbc": "09",
+            "crrt": "R037"
+          },
+          "encounters": [],
+          "homeValue": "H",
+          "encountersInLastYear": 0,
+          "financialClassId": 9200,
+          "householdType": "S",
+          "addressId": "1568230",
+          "gender": "F"
+        }
+      }

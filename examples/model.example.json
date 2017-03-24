@@ -1,0 +1,25 @@
+{
+    "model": {
+        "creator": "Dennis",
+        "id": "_guid",
+        "nameFirst": "_name",
+        "nameLast": "_name",
+        "signUpDate": "_date",
+        "staticBool": true,
+        "staticDefault": [2,3,4],
+        "isCool": "_bool",
+        "dataObj": {
+            "name": "_name",
+            "state": "_state",
+            "dns": "_bool",
+            "id": "_guid"
+        },
+        "nameGroup": [{"fucks": "_name"}, "_name", "_name" , "_date"],
+        "address": {
+            "state": "_state",
+            "zip": "_zip"
+        },
+        "dsl": "_bool"
+    },
+    "count": 5
+}
